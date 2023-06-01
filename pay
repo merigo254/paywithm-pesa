@@ -1,0 +1,1 @@
+<div><button class="intaSendPayButton" data-method="M-PESA" data-amount="10" data-currency="KES">Pay with M-Pesa</button></div>
